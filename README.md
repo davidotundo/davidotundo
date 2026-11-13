@@ -46,7 +46,7 @@ My work focuses on transforming ideas and data into useful applications through 
 ## 💻 Featured Projects
 
 ### 1. SMP Tracker
-[View Repository](https://github.com/YOUR_USERNAME/smp-tracker)
+[View Repository](https://github.com/davidotundo/smp-tracker/tree/main)
 
 A Python-powered performance tracking application designed around the Self-Made Protocol (SMP) fitness programme.
 
