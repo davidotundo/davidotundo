@@ -1,4 +1,3 @@
-
 # Hello, I'm David Orare Otundo 👋
 
 ### Python Developer | Data Analytics | AI & Automation
@@ -7,18 +6,17 @@ I am a Python developer passionate about building practical software solutions, 
 
 My work focuses on transforming ideas and data into useful applications through clean code, structured problem-solving, and continuous learning.
 
-📍 Nairobi, Kenya
+## Location: Nairobi, Kenya
 
 ---
 
 ## 🚀 What I Do
 
-- **Python Development:** Building applications, reusable scripts, and practical software solutions.
-- **Data Analytics:** Cleaning, processing, analyzing, and interpreting datasets.
-- **AI & Machine Learning:** Exploring predictive modelling, classification algorithms, and intelligent automation.
-- **API Development:** Building RESTful APIs for data processing and application integration.
-- **Web Development:** Creating interactive browser-based applications.
-- **Workflow Automation:** Developing tools that reduce repetitive tasks and improve efficiency.
+- **Python Development:** I help individuals, businesses & organizations build applications, reusable scripts, and practical software solutions .
+- **Data Analytics:** I help businesses clean, process, analyze, and interpret datasets to derive meaningful information for decision making.
+- **AI & Machine Learning:** I help businesses build machine learning models to aid in prediction, classification, and intelligent automation of their daily processes using their own available data.
+- **API Development:** I help operations teams build APIs for data processing and application integration by connecting two or more disconnected tools using Python scripts that pulls data from one API and pushes to another automatically on.
+- **Workflow Automation:** I help business owners who write the same types of responses repeatedly by building Python tool that generates structured drafts using the OpenAI API in the required voice and format.
 
 ---
 
@@ -112,7 +110,7 @@ An analytical study of a 28-day SMP performance dataset, focusing on behavioural
 
 I believe in learning by building, solving problems through code, and continuously improving the quality of my work.
 
-My development approach emphasises:
+My development approach emphasizes:
 
 - **Problem-solving:** Understanding the problem before implementing a solution.
 - **Clean Code:** Writing readable, maintainable, and reusable code.
@@ -129,6 +127,7 @@ I am interested in connecting with developers, collaborating on interesting proj
 - 📧 **Email:** davidotundorare@gmail.com
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/otundodavid)
 - 💻 **GitHub:** [Explore my repositories](https://github.com/davidotundo)
+- **Phone Number:** +254717031188
 
 ---
 
